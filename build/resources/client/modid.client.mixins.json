@@ -1,11 +1,14 @@
 {
 	"required": true,
+	"minVersion": "0.8",
 	"package": "com.example.mixin.client",
 	"compatibilityLevel": "JAVA_21",
+	"mixins": [],
 	"client": [
 		"ExampleClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
-	}
+	},
+	"refmap": "gonow.refmap.json"
 }
