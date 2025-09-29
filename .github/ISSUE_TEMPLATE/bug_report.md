@@ -25,11 +25,3 @@ If applicable, add screenshots to help explain your problem.
 
 Add any other context about the problem here.
 
- - type: checkboxes
-    id: terms
-    attributes:
-      label: Confirmation
-      description: By submitting this issue, you confirm that:
-      options:
-        - label: I accept that I use the latest version on this mod
-          required: true
