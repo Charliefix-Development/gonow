@@ -80,6 +80,10 @@ publishing {
 		}
 	}
 
+	dependencies {
+		modImplementation "net.fabricmc.fabric-api:fabric-api:0.133.4+1.21.8"
+	}
+
 	// See https://docs.gradle.org/current/userguide/publishing_maven.html for information on how to set up publishing.
 	repositories {
 		// Add repositories to publish to here.

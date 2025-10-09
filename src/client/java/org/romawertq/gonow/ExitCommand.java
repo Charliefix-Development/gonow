@@ -1,4 +1,4 @@
-package com.example;
+package org.romawertq.gonow;
 
 import com.mojang.brigadier.Command;
 import com.mojang.brigadier.context.CommandContext;
